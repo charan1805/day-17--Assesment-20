@@ -1,0 +1,11 @@
+E:\my details\personal\c sharp\ day 17\Ps-20\bin\Debug\Ps-20.exe.config
+E:\my details\personal\c sharp\ day 17\Ps-20\bin\Debug\Ps-20.exe
+E:\my details\personal\c sharp\ day 17\Ps-20\bin\Debug\Ps-20.pdb
+E:\my details\personal\c sharp\ day 17\Ps-20\bin\Debug\BookLib.dll
+E:\my details\personal\c sharp\ day 17\Ps-20\bin\Debug\BookLib.pdb
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.csproj.CopyComplete
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.exe
+E:\my details\personal\c sharp\ day 17\Ps-20\obj\Debug\Ps-20.pdb

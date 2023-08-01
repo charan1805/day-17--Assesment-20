@@ -1,0 +1,6 @@
+E:\my details\personal\c sharp\ day 17\BookLib\bin\Debug\BookLib.dll
+E:\my details\personal\c sharp\ day 17\BookLib\bin\Debug\BookLib.pdb
+E:\my details\personal\c sharp\ day 17\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ day 17\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ day 17\BookLib\obj\Debug\BookLib.dll
+E:\my details\personal\c sharp\ day 17\BookLib\obj\Debug\BookLib.pdb
